@@ -5,7 +5,7 @@ export const personalInfo = {
   altEmail: "varunsaini.applicant@gmail.com",
   phone: "+91 93504 43021",
   github: "https://github.com/varun15022004",
-  linkedin: "https://linkedin.com/in/varun-saini",
+  linkedin: "https://www.linkedin.com/in/varun-saini-82bb17321/",
   location: "Ambala, Haryana, India",
   summary: "Done B.Tech from Thapar Institute of Engineering & Technology. Experienced in building scalable Full Stack applications and AI/ML solutions. Passionate about GenAI, Distributed Systems, and DevOps.",
   availability: "Available for immediate joining"
